@@ -6,7 +6,7 @@ body {
     background-color: black;
 }
 
-picture {
+img {
     max-width: 100%;
     min-width: 500px;
 }
